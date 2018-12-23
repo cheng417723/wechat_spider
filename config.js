@@ -8,6 +8,8 @@ var config = {
   mongodb: {
     db: 'mongodb://127.0.0.1:27017/wechat_spider'
   },
+
+
   insertJsToNextPage: {
     disable: false,
     jumpInterval: 2,
